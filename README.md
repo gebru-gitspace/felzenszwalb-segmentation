@@ -1,5 +1,3 @@
-# Felzenszwalb Segmentation
-
 # Graph-Based Image Segmentation Using Union-Find (FH Algorithm)
 
 ## Overview
