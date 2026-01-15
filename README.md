@@ -1,5 +1,6 @@
 # Graph-Based Image Segmentation Using Union-Find (FH Algorithm)
-
+Gebru Meresu <br>
+Jan 2026
 ## Overview
 This project implements the **Felzenszwalb–Huttenlocher (FH)** graph-based image segmentation algorithm from scratch using the **Union-Find (Disjoint Set Union)** data structure. The objective is to understand how Union-Find efficiently clusters similar pixels into coherent regions in an unsupervised manner.
 
@@ -61,16 +62,6 @@ For each configuration:
 
 ---
 
-## Tools Used
-- NumPy
-- Matplotlib
-- Scikit-image (image I/O, color conversion, Gaussian filter)
-- OS utilities
-
-No prebuilt segmentation, clustering, or graph libraries were used.
-
----
-
 ## Key Takeaways
 - Union-Find is well-suited for graph-based image segmentation
 - FH segmentation adapts naturally to image structure without supervision
@@ -78,13 +69,6 @@ No prebuilt segmentation, clustering, or graph libraries were used.
 - Implementing the algorithm from scratch improves understanding of graph-based vision methods
 
 ---
-
-## Submission Details
-- **Format:** Single Google Colab notebook
-- **Contents:** Implementation, visualizations, and observations
-- **Output:** Original image and segmentation results (minimum three parameter settings)
-- **Upload Location:** `Jan 10 Group 2 Training`
-- **Filename:** *Your Full Name*
 
 
 **Article:** [Efficient Graph-Based Image Segmentation](https://soumik12345.github.io/geekyrakshit-blog/algebra/computervision/convolution/maths/python/2020/09/17/efficient-graph-based-image-segmentation.html)
